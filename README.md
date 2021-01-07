@@ -1,4 +1,4 @@
-# Taco Proxy
+# [Taco Proxy](https://tacoproxy.ml)
 ### A website unblocker based off the Alloy Proxy
 
 # Security
