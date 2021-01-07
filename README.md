@@ -34,6 +34,10 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 
 #### You can report any issues [here](https://github.com/Tacosheel/TacoProxy/issues/new)
 
+# Credit
+- [Titanium Network](https://github.com/titaniumnetwork-dev)
+- [QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald)
+
 # ![GitHub](https://img.shields.io/github/license/tacosheel/tacoproxy?style=for-the-badge)
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
