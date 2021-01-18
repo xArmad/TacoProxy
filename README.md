@@ -22,6 +22,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 - Rocket Loader
 - Auto Minify
 - Cloudfare Caching
+- Arc.io Caching
 
 #### Taco Proxy also has a very high PageSpeed rating of 94/100
 
@@ -184,7 +185,8 @@ proxy.blocked.status // Outputs "true" when a filtered hostname is detected.
 - [Titanium Network](https://github.com/titaniumnetwork-dev)
 - [QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald)
 
-# ![GitHub](https://img.shields.io/github/license/tacosheel/tacoproxy?style=for-the-badge)
+# License 
+![GitHub](https://img.shields.io/github/license/tacosheel/tacoproxy?style=for-the-badge)
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
